@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/lovehacker404-BlackMafia-orange?style=for-the-badge&logo=python.svg) 
+![](https://img.shields.io/badge/Raja-Mental-orange?style=for-the-badge&logo=python.svg) 
 <p align="center">
 <img src="blackmafia3.gif">
 <a href="#"><img title="Made in Asia" src="https://img.shields.io/badge/MADE%20IN-Asia-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -15,7 +15,7 @@
 <img src="blackmafia5.gif">
 <p align="center">
 <p align="center">
-<a href="https://github.com/lovehacker404"><img title="Author" src="https://img.shields.io/badge/Author-lovehacker404-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/lovehacker404"><img title="Author" src="https://img.shields.io/badge/Author-Raja-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/lovehacker404/followers"><img title="Followers" src="https://img.shields.io/github/followers/lovehacker404?color=blue&style=flat-square"></a>
